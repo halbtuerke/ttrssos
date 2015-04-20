@@ -1,3 +1,3 @@
 [submodule "php"]
 	path = php
-	url = https://github.com/rcristi/Tiny-Tiny-RSS
+	url = https://github.com/halbtuerke/Tiny-Tiny-RSS
